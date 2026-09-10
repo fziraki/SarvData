@@ -1,0 +1,10 @@
+{
+  "android": {
+    "stable_version_code": 200040201,
+    "last_version_code": 200040201
+  },
+  "ios": {
+    "stable_version_code": 1,
+    "last_version_code": 1
+  }
+}
